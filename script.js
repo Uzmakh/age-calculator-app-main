@@ -35,7 +35,7 @@ inputDay.addEventListener("input", (e) => {
 });
 // validation for month
 inputMonth.addEventListener("input", (e) => {
-    if (inputMonth.value <= 0 || inputDay.value > 12) {
+    if (inputMonth.value <= 0 || inputMonth.value > 12) {
         inputMonth.style.border = "1px solid red";
         errorMonth.textContent = "Must be a valid month";
         isValid = false;
