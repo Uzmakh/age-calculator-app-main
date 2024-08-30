@@ -36,10 +36,9 @@ Users should be able to:
 - **Bonus**: See the age numbers animate to their final number when the form is submitted
 
 ### Screenshot
-
-(./assets/images/Capture.jpg)
-(./assets/images/Capture-2.PNG.jpg)
-(./assets/images/Capture-3.jpg)
+<img width="697" alt="Capture" src="https://github.com/user-attachments/assets/52cad4fe-7e3c-4022-a037-dc93384bb45a">
+<img width="321" alt="Capture-2" src="https://github.com/user-attachments/assets/ab7d5b70-3557-4560-a812-8d6e141c3016">
+<img width="321" alt="Capture-2" src="https://github.com/user-attachments/assets/0d4a20d7-d16c-4bfd-bdea-7f310754e3b2">
 
 ### Links
 
