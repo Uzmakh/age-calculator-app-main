@@ -16,10 +16,7 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
-
 ### The challenge
 
 Users should be able to:
@@ -38,7 +35,7 @@ Users should be able to:
 ### Screenshot
 <img width="697" alt="Capture" src="https://github.com/user-attachments/assets/52cad4fe-7e3c-4022-a037-dc93384bb45a">
 <img width="321" alt="Capture-2" src="https://github.com/user-attachments/assets/ab7d5b70-3557-4560-a812-8d6e141c3016">
-<img width="321" alt="Capture-2" src="https://github.com/user-attachments/assets/0d4a20d7-d16c-4bfd-bdea-7f310754e3b2">
+<img width="368" alt="Capture-3" src="https://github.com/user-attachments/assets/7012a79c-0bbd-4d27-b867-7c800b215eae">
 
 ### Links
 
