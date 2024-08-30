@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./assets/images/favicon-32x32.png"
+    />
+
+    <!-- custom css -->
+    <link rel="stylesheet" href="style.css" />
+
+    <title>Frontend Mentor | Age calculator app</title>
+  </head>
+  <body>
+    <div class="container">
+      <div class="input-flex">
+        <div class="input-container">
+          <span class="label">Day</span>
+          <input type="number" placeholder="DD" id="day" />
+          <small class="error-day"></small>
+        </div>
+        <div class="input-container">
+          <span class="label"> Month</span>
+          <input type="number" placeholder="MM" id="month" />
+          <small class="error-month"></small>
+        </div>
+        <div class="input-container">
+          <span class="label">Year</span>
+          <input type="number" placeholder="YYYY" id="year" />
+          <small class="error-year"></small>
+        </div>
+      </div>
+      <hr />
+      <a class="submit-btn">
+        <img src="./assets/images/icon-arrow.svg" alt="icon-arrow" />
+      </a>
+      <div class="output">
+        <h1><span class="output-year">- -</span> years</h1>
+        <h1><span class="output-month">- -</span> months</h1>
+        <h1><span class="output-day">- -</span> days</h1>
+      </div>
+    </div>
+    <!-- end of container -->
+
+    <!-- footer -->
+    <div class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="#">Uzma Khan</a>.
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
