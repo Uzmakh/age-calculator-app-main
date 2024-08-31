@@ -99,4 +99,4 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Acknowledgments
 
-I give a hat tip to usama7365-https://github.com/usama7365 who helped me out on this project in fixing the bugs and understanding the code for date-functionality.
+I give a hat tip to Usama Aamir-https://github.com/usama7365 who helped me out on this project in fixing the bugs and understanding the code for date-functionality.
